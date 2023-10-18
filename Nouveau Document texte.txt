@@ -1,0 +1,3 @@
+Admin: user: Della, password: 66540569
+Editeur1: user: stella, password: 665405692
+Editeur2: user: Jean, password: 665405693
